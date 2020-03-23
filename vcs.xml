@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/markvinczehu/SDJ2Ass1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Jimant2/SimpleConsoleChat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jiman\IdeaProjects" />
