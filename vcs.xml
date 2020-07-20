@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/GabrielRivera21/ChatAppFx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/markvinczehu/chatsep2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jiman\IdeaProjects" />
